@@ -107,7 +107,7 @@ _Меня зовут Роберто. Я QA Enginner - cильный специа
 ## Мои контакты
 
 [![Linkedin: Lewdanski](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/alexander-lewdanski)
-[![Website: Lewdanski](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.drive2.ru/users/lewdanski)
+[![Drive2: Lewdanski](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.drive2.ru/users/lewdanski)
 [![Instagram: Lewdanski](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/alexander.lewdanski/)
 [![Telegram Lewdanski](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Lewdanski)
 
