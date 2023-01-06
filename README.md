@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GIF](https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif)
+// ![GIF](https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif)
   
 </div>
 
@@ -99,7 +99,7 @@ _Меня зовут Роберто. Я QA Enginner - cильный специа
 <a href="https://localizely.com/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/localizely.png" alt="Localizely" width="100" height="50" />
 </a>
-<a href="https://dbeaver.io/">
+// <a href="https://dbeaver.io/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/DBeaver.png" alt="DBeaver" width="50" height="50" />
 </a>
 </p>
