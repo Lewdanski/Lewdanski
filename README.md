@@ -14,6 +14,9 @@ Here are my skills:
 - Compiling of test documentation: writing and execution of test cases, checklists.
 - Registration of bugs. Work in bug tracking system.
 
+alexander.lewdanski@gmail.com
++375(25)966-33-88
+
 
 ## My CV 
 
