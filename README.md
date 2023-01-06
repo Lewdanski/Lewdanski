@@ -2,10 +2,9 @@
 
 <div align="center">
 
-![GIF](https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif](https://media.licdn.com/dms/image/C5616AQHxF21ymzgZtQ/profile-displaybackgroundimage-shrink_350_1400/0/1576879306752?e=1678320000&v=beta&t=jqah7CApFyh2rG3DAlUq5xWVzmiybZKnm2dE9g-zDg0)
+![GIF](https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif)
   
 </div>
-
 
 
 Hello. I'm QA Engineer. 
