@@ -15,7 +15,6 @@ Here are my skills:
 - Registration of bugs. Work in bug tracking system.
 
 alexander.lewdanski@gmail.com
-
 +375(25)966-33-88
 
 
