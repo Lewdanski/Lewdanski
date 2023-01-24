@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GIF](https://media.licdn.com/dms/image/C5616AQHxF21ymzgZtQ/profile-displaybackgroundimage-shrink_350_1400/0/1576879306752?e=1678320000&v=beta&t=jqah7CApFyh2rG3DAlUq5xWVzmiybZKnm2dE9g-zDg0)
+![GIF](https://thumb.cloud.mail.ru/thumb/xw1/png.png)
   
 </div>
 
