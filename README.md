@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GIF](https://media.licdn.com/dms/image/C5616AQHxF21ymzgZtQ/profile-displaybackgroundimage-shrink_350_1400/0/1576879306752?e=1678320000&v=beta&t=jqah7CApFyh2rG3DAlUq5xWVzmiybZKnm2dE9g-zDg0)
+![GIF](https://media.licdn.com/dms/image/D4D16AQG4OpJVDP3mcA/profile-displaybackgroundimage-shrink_350_1400/0/1675244671749?e=1680739200&v=beta&t=wxUYfsk8LBvgyoQ1m4ahRlQHqEoQPyGofCPkx849dwg)
   
 </div>
 
