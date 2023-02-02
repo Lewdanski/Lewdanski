@@ -61,7 +61,7 @@ alexander.lewdanski@gmail.com
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Postman.png" alt="Postman" width="50" height="50" />
 </a>
 <a href="https://www.mantisbt.org/">
-<img src="https://www.mantisbt.org/images/mantis_logo_262x90.png" alt="Mantis" width="50" height="50" />
+<img src="https://terracloudx.com/wp-content/uploads/2020/06/icono-mantis.png" alt="Mantis" width="50" height="50" />
 </a>
 </p>
 
