@@ -48,12 +48,6 @@ alexander.lewdanski@gmail.com
 <a href="https://developer.apple.com/testflight/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Testflight.png" alt="Testflight" width="50" height="50" />
 </a> 
-<a href="https://developer.apple.com/xcode/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Xcode.png" alt="Xcode" width="50" height="50" />
-</a> 
-<a href="https://developer.android.com/studio">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Android%20Studio.png" alt="Android Studio" width="50" height="50" />
-</a>
 <a href="https://www.atlassian.com/software/jira">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Jira.png" alt="Jira" width="50" height="50" />
 </a>
