@@ -16,7 +16,7 @@ alexander.lewdanski@gmail.com
 
 ## My CV 
 
-[Здесь будет ссылка на резюме](https://ссылочку_сюда)
+[Резюме](https://www.linkedin.com/in/alexander-lewdanski/)
 
 ## Портфолио 
 - Тестовая документация
