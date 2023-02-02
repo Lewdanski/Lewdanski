@@ -63,6 +63,9 @@ alexander.lewdanski@gmail.com
 <a href="https://www.mantisbt.org/">
 <img src="https://terracloudx.com/wp-content/uploads/2020/06/icono-mantis.png" alt="Mantis" width="50" height="50" />
 </a>
+<a href="https://www.jenkins.io/">
+<img src="https://get.jenkins.io/art/jenkins-logo/logo.svg" alt="Jenkins" width="50" height="50" />
+</a>
 </p>
 
 ## Мои контакты
