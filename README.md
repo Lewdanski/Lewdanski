@@ -75,6 +75,12 @@ alexander.lewdanski@gmail.com
 <a href="https://www.heidisql.com/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" alt="HeidiSQL" width="50" height="50" />
 </a>
+<a href="https://code.visualstudio.com/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" width="50" height="50" />
+</a>
+<a href="https://www.reviewboard.org/">
+<img src="https://www.reviewboard.org/static/rbsite/images/splash-logo.4e5675b3210a.png" alt="ReviewBoard" width="50" height="50" />
+</a>
 </p>
 
 ## Мои контакты
