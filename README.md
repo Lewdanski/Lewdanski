@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GIF](https://raw.githubusercontent.com/Lewdanski/Lewdanski/main/png.png)
+![GIF](https://github.com/Lewdanski/Lewdanski/blob/main/github.png?raw=true)
   
 </div>
 
