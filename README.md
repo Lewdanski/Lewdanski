@@ -65,7 +65,7 @@ alexander.lewdanski@gmail.com
 ## Мои контакты
 
 [![Linkedin: Lewdanski](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/alexander-lewdanski)
-[![Drive2: Lewdanski](https://img.shields.io/badge/-DRIVE2.RU-red?style=for-the-badge&logo=audi&logoColor=white)](https://www.drive2.ru/users/lewdanski)
+[![Drive2: Lewdanski](https://img.shields.io/badge/-DRIVE2.RU-red?style=flat-square&logo=audi&logoColor=white)](https://www.drive2.ru/users/lewdanski)
 [![Instagram: Lewdanski](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/alexander.lewdanski/)
 [![Telegram Lewdanski](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Lewdanski)
 
