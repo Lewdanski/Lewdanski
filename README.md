@@ -23,7 +23,7 @@ alexander.lewdanski@gmail.com
   -  [Чек-листы](https://ссылочку_сюда)
   -  [Тест-кейсы](https://ссылочку_сюда)
   -  [Mind maps](https://ссылочку_сюда)
-  -  [Баг-репорты](https://ссылочку_сюда)
+  -  [Баг-репорты](https://github.com/Lewdanski/Lewdanski/tree/main/bug_report)
 - Коллекция в Postman 
   -  [Название проекта](https://ссылочку_сюда)
 - SQL-запросы 
