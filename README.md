@@ -8,8 +8,11 @@
 
 
   Hello. I'm QA Engineer with 3 years of experience in software testing, providing quality assurance for various projects across multiple industries.
+  
   Skilled in identifying and analyzing requirements, creating test plans and cases, executing tests, and reporting defects.
+  
   Experienced in both manual and automated testing, as well as utilizing various testing tools and technologies. Proficient in SQL and REST API testing.
+  
   Strong collaborator and communicator, working effectively with cross-functional teams to achieve project goals. Adept in Agile methodologies and continuous improvement, staying up-to-date with industry trends and updates. Committed to delivering high-quality software through thorough testing processes.
 
 alexander.lewdanski@gmail.com
