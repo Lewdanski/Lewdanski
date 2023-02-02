@@ -66,6 +66,15 @@ alexander.lewdanski@gmail.com
 <a href="https://www.jenkins.io/">
 <img src="https://get.jenkins.io/art/jenkins-logo/logo.svg" alt="Jenkins" width="50" height="50" />
 </a>
+<a href="https://www.mercurial-scm.org/">
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mercurial_icon_130392.png" alt="Mercurial" width="50" height="50" />
+</a>
+<a href="https://www.redmine.org/">
+<img src="https://avatars.githubusercontent.com/u/93662?s=280&v=4" alt="Redmine" width="50" height="50" />
+</a>
+<a href="https://www.heidisql.com/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" alt="HeidiSQL" width="50" height="50" />
+</a>
 </p>
 
 ## Мои контакты
