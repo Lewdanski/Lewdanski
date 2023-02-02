@@ -75,6 +75,12 @@ alexander.lewdanski@gmail.com
 <a href="https://www.reviewboard.org/">
 <img src="https://www.reviewboard.org/static/rbsite/images/splash-logo.4e5675b3210a.png" alt="ReviewBoard" width="50" height="50" />
 </a>
+<a href="https://www.charlesproxy.com/">
+<img src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" alt="CharlesProxy" width="50" height="50" />
+</a>
+<a href="https://www.adobe.com/cis_ru/products/photoshop.html">
+<img src="https://w7.pngwing.com/pngs/548/34/png-transparent-adobe-photoshop-macos-bigsur-icon.png" alt="CharlesProxy" width="50" height="50" />
+</a>   
 </p>
 
 ## Мои контакты
