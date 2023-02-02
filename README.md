@@ -20,14 +20,13 @@ alexander.lewdanski@gmail.com
 
 ## Портфолио 
 - Тестовая документация
-  -  [Чек-листы](https://ссылочку_сюда)
-  -  [Тест-кейсы](https://ссылочку_сюда)
-  -  [Mind maps](https://ссылочку_сюда)
+  -  [Чек-листы](https://github.com/Lewdanski/Lewdanski/tree/main/checklist)
+  -  [Тест-кейсы](https://github.com/Lewdanski/Lewdanski/tree/main/testcases)
   -  [Баг-репорты](https://github.com/Lewdanski/Lewdanski/tree/main/bug_report)
 - Коллекция в Postman 
-  -  [Название проекта](https://ссылочку_сюда)
+  -  [SKZ](https://github.com/Lewdanski/Lewdanski/tree/main/postman_request)
 - SQL-запросы 
-  -  [Название проекта](https://ссылочку_сюда)
+  -  [SKZ](https://github.com/Lewdanski/Lewdanski/tree/main/sql_request)
   
 
 ## Инструменты и технологии
