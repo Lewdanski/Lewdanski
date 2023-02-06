@@ -32,7 +32,8 @@ alexander.lewdanski@gmail.com
 - Коллекция в Postman 
   -  [SKZ](https://github.com/Lewdanski/Lewdanski/tree/main/postman_request)
 - SQL-запросы 
-  -  [SKZ](https://github.com/Lewdanski/Lewdanski/tree/main/sql_request)
+  -  [SKZ](https://github.com/Lewdanski/Lewdanski/tree/main/SKZ/sql_request)
+  -  [Delay](https://github.com/Lewdanski/Lewdanski/tree/main/Delay/sql_request)
   
 
 ## Инструменты и технологии
