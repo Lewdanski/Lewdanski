@@ -30,7 +30,7 @@ alexander.lewdanski@gmail.com
   -  [Тест-кейсы](https://github.com/Lewdanski/Lewdanski/tree/main/testcases)
   -  [Баг-репорты](https://github.com/Lewdanski/Lewdanski/tree/main/bug_report)
 - Коллекция в Postman 
-  -  [SKZ](https://github.com/Lewdanski/Lewdanski/tree/main/postman_request)
+  -  [SKZ](https://github.com/Lewdanski/Lewdanski/tree/main/SKZ/postman_request)
 - SQL-запросы 
   -  [SKZ](https://github.com/Lewdanski/Lewdanski/tree/main/SKZ/sql_request)
   -  [Delay](https://github.com/Lewdanski/Lewdanski/tree/main/Delay/sql_request)
