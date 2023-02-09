@@ -84,6 +84,17 @@ alexander.lewdanski@gmail.com
 </a>   
 </p>
 
+
+## Сертификаты
+
+
+<p align="left">
+<a href="https://testit.software/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/TestIT.png" alt="TestIT" width="50" height="50" />
+</a>
+</p>
+
+
 ## Мои контакты
 
 [![Linkedin: Lewdanski](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/alexander-lewdanski)
