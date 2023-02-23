@@ -94,7 +94,7 @@ alexander.lewdanski@gmail.com
   -  [Основы БД](https://gb.ru/certificates/742176)
   -  [Основы ООП](https://gb.ru/certificates/606488)
   -  [Основы тестирования программного обеспечения](https://test-planet.by/uchebniy-centr/database-alumni/?prowp_nonce_field=6d1a4c76fd&_wp_http_referer=%2Fakademiya%2Fdatabase-alumni%2F&family=%D0%9B%D0%B5%D0%B2%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9&number=2736&submitted=true)
-  -  [Гибкое управление проектами: Agile/Scrum/Kanban](https://github.com/Lewdanski/Lewdanski/tree/main/cert)
+  -  [Гибкое управление проектами: Agile/Scrum/Kanban](https://github.com/Lewdanski/Lewdanski/tree/main/certificates)
 
 
 ## Мои контакты
