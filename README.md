@@ -17,7 +17,7 @@
 
 alexander.lewdanski@gmail.com
 
-+375(25)966-33-88
+<div class=phone><a href="tel:+375259663388">+375(25)966-33-88</a></div>
 
 
 ## My CV 
