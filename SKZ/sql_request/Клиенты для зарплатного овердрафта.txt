@@ -1,0 +1,19 @@
+SELECT ppl.ppl_perscode
+            FROM s_pd_crts crt, s_cust cust, s_people ppl,
+                TABLE(forpost.itw_sca.getCPProp(crt.crt_code, frl_000.get_bsheet_dt(frl_000.get_current_branch()))) t
+                WHERE crt.crt_pdt_mnemo = 'SALARY_CARD'   
+                AND t.r_val_bn_zp > 6500
+                AND t.r_val_bn_zp < 8000
+                AND ppl.ppl_code = cust.cust_ppl_code
+                and ppl.PPL_PERSCODE not in ('7370776A870PB4', '7539102A363PB3', '7355442A899PB8')
+                AND cust.cust_code = crt.crt_cust_code
+                AND ADD_MONTHS(ppl.ppl_birthday, 216) < sysdate  
+                AND EXISTS( SELECT *
+                            FROM s_pd_crts crt2, s_card card
+                            WHERE 
+                                crt.crt_cust_code = crt2.crt_cust_code                    
+                                AND crt2.crt_mnemo = card.crd_deal_nr
+                                AND crt2.crt_pdt_mnemo LIKE 'PAYMENT_CARD%'
+                                AND crt2.crt_crnc = 'BYN'
+                                AND card.crd_status IN ('A', 'P')
+                                AND ADD_MONTHS(sysdate, 3) < card.crd_deal_stop_dt)

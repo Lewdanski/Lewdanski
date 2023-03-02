@@ -1,0 +1,44 @@
+WITH vrcList AS (
+  SELECT
+    vrc_mnemo,
+    vrc_pdt_mnemo,
+    forpost.itw_sca.getVrcCss(vrc_pdt_mnemo, vrc_mnemo, 'TMP_VARIANT', 'BYN') tmp_variant,
+    itw_sca.getVrcCss(vrc_pdt_mnemo, vrc_mnemo, 'NAME_CRD_TYPE_SDBO', 'BYN') name_crd_type_sdbo
+  FROM
+    s_pd_variants
+  WHERE
+--tmp_variant = 'V_GD_PS' AND
+    vrc_pdt_mnemo = 'INSTANT_ISSUE_PURCHASE'
+    AND vrc_mnemo like 'PS_MC_ST_NFC' 
+)
+SELECT
+  vl.*,
+  crt_mnemo,
+  FRL_800.GET_CONDITION(crt_code, 'DELIVERY_AGENCY') delivery_agency,
+  FRL_800.GET_CONDITION(crt_code, 'DELIVERY_PLACE') delivery_place,
+  crd_nr,
+  crd_code,
+  crd_cpt,
+  crd.crd_duid1,
+  crd.crd_duid2,
+  FRL_800.GET_CONDITION(crt_code, 'VRT_CRD') virt
+FROM
+  s_pd_groups pdg, s_pd_crts crt, vrcList vl, s_card crd
+  WHERE
+  pdg_id = 'PC' AND
+  crt_pdg_code = pdg_code AND
+  crt_pdt_mnemo like 'GENERAL_INSTANT%' AND
+  crt_vrc_mnemo = vl.tmp_variant AND
+  crt_crnc = 'BYN' AND
+  crd_deal_nr = crt_mnemo AND
+  crd_prod_status = 'X' AND
+  crd_status IN ('P') AND
+  (
+    vl.vrc_mnemo like '%EMV%' AND
+    crd.crd_cpt like '%EMV%' OR
+    vl.vrc_mnemo not like '%EMV%' AND
+    crd.crd_cpt not like '%EMV%'
+  ) AND FRL_800.GET_CONDITION(crt_code, 'DELIVERY_PLACE') 
+  NOT IN ('post_centr', 'atr_centr','part_hors')
+ORDER BY
+ trunc(crd_duid1), crd_deal_stop_dt, crd_nr;
