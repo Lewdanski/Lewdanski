@@ -1,0 +1,220 @@
+{
+	"info": {
+		"_postman_id": "9c7bf8cf-1752-4b6e-85e0-f38638efc7d2",
+		"name": "Курсы валют",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "17023026"
+	},
+	"item": [
+		{
+			"name": "ЦВКВ",
+			"item": []
+		},
+		{
+			"name": "GetSecurityToken",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "text/html; charset=cp1251",
+						"type": "text"
+					},
+					{
+						"key": "X-JMS-DestinationQueue",
+						"value": "sys.i",
+						"type": "text"
+					},
+					{
+						"key": "X-JMS-Action",
+						"value": "push-msg",
+						"type": "text"
+					},
+					{
+						"key": "X-JMS-User",
+						"value": "sys.credo.user.sonic.local",
+						"type": "text"
+					},
+					{
+						"key": "X-JMS-Password",
+						"value": "credo",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<bgx:BGX xmlns:bgx=\"urn:bgpb:bgx:v2\" xmlns:tns=\"urn:bgpb:bgx:v2:operations:bcse:api:v1\">\r\n    <tns:GetSecurityToken/>\r\n</bgx:BGX>",
+					"options": {
+						"raw": {
+							"language": "xml"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url_bus}}",
+					"host": [
+						"{{url_bus}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetBondRateHistory",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "text/html; charset=cp1251",
+						"type": "text"
+					},
+					{
+						"key": "X-JMS-DestinationQueue",
+						"value": "sys.i",
+						"type": "text"
+					},
+					{
+						"key": "X-JMS-Action",
+						"value": "push-msg",
+						"type": "text"
+					},
+					{
+						"key": "X-JMS-User",
+						"value": "sys.credo.user.sonic.local",
+						"type": "text"
+					},
+					{
+						"key": "X-JMS-Password",
+						"value": "credo",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<Request>\r\n   <Name>ITW/GetBondRateHistory</Name>\r\n   <Version>1</Version>\r\n   <Parameters>\r\n      <parameter name=\"NumberIssue\" type=\"VARCHAR2\">ALL</parameter>\r\n      <parameter name=\"BondType\" type=\"VARCHAR2\">6,7</parameter>\r\n    <parameter name=\"OperationType\" type=\"VARCHAR2\">ALL</parameter>\r\n    <parameter name=\"Date\" type=\"DATE\">2021.09.21 17:21:00</parameter>\r\n   </Parameters>\r\n</Request>",
+					"options": {
+						"raw": {
+							"language": "xml"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://192.168.0.205:28443/itwGateWS/exec/XmlApi\n",
+					"protocol": "https",
+					"host": [
+						"192",
+						"168",
+						"0",
+						"205"
+					],
+					"port": "28443",
+					"path": [
+						"itwGateWS",
+						"exec",
+						"XmlApi\n"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetRequestCurrencyOnline",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "text/html; charset=cp1251",
+						"type": "text"
+					},
+					{
+						"key": "X-JMS-DestinationQueue",
+						"value": "sys.i",
+						"type": "text"
+					},
+					{
+						"key": "X-JMS-Action",
+						"value": "push-msg",
+						"type": "text"
+					},
+					{
+						"key": "X-JMS-User",
+						"value": "sys.credo.user.sonic.local",
+						"type": "text"
+					},
+					{
+						"key": "X-JMS-Password",
+						"value": "credo",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<bgx:BGX xmlns:bgx=\"urn:bgpb:bgx:v2\" xmlns:tns=\"urn:bgpb:bgx:v2:operations:bcse:api:v1\">\r\n   <tns:GetRequestCurrencyOnline>\r\n      <tns:SecurityToken>eyJhbGciOiJSUzI1NiIsImtpZCI6IjI1MjdERTE0NTYxMDU0NTQwNkUxMjE1QzNCRDZBOUI3RkNBMTc3RTIiLCJ0eXAiOiJKV1QiLCJ4NXQiOiJKU2ZlRkZZUVZGUUc0U0ZjTzlhcHRfeWhkLUkifQ.eyJuYmYiOjE2Mjg1ODM4NTMsImV4cCI6MTYyODU4NzQ1MywiaXNzIjoiaHR0cHM6Ly9wcm9maWxlLmJjc2UuYnkiLCJhdWQiOiJodHRwczovL3Byb2ZpbGUuYmNzZS5ieS9yZXNvdXJjZXMiLCJjbGllbnRfaWQiOiJTR0FURTo3RUIwN0Y3Mi0yQUFBLTQyMzMtOEYzMS0yM0I0MkNDRDYzRDIiLCJzdWIiOiIxYTM2ZTc5ZC02ZGQ3LTQ1MWItYTlmYi04MjIyZGY5MWMxYmEiLCJhdXRoX3RpbWUiOjE2Mjg1ODM4NTMsImlkcCI6ImxvY2FsIiwic2NvcGUiOlsiYmNzZVNlcnZpY2VzIiwib3BlbmlkIl0sImFtciI6WyJwd2QiXX0.UFYmUhsTU9GIY936PhqWNQpOdnT9IccjHWAI171F38j5i_0fSk82cRIscCudPJfLG5OU5aHxoqVMaD7_3tkdEV789X6kPBpQNOvnlVdmSxFbBgCTeWXs12-bC-vOcanXYBV9RfhK-PL4jgmjeZavXAfkBxe65EcQWJk_uSgreInBbDEYNfWHpgyIjMn6Jg0BCRNrNkJMwuJBUUWsTBwXV-HP6SvaCTTT-RykRgSaOB6QMN1IOPbUkW-OY2X29ie6oe1gvF0MqejoxOlmbUikj_lXi0g-rVsVMEr8-Vmlxx1OfsIxShew_c6Zf1n67O6wCGAbKb2rvy-V7801ngRp1Q</tns:SecurityToken>\r\n      <tns:tradeModeId>1</tns:tradeModeId>\r\n   </tns:GetRequestCurrencyOnline>\r\n</bgx:BGX>",
+					"options": {
+						"raw": {
+							"language": "xml"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url_bus}}",
+					"host": [
+						"{{url_bus}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Запрос котировок ЦБ",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "text/html; charset=cp1251",
+						"type": "text"
+					},
+					{
+						"key": "X-JMS-DestinationQueue",
+						"value": "sys.i",
+						"type": "text"
+					},
+					{
+						"key": "X-JMS-Action",
+						"value": "push-msg",
+						"type": "text"
+					},
+					{
+						"key": "X-JMS-User",
+						"value": "sys.credo.user.sonic.local",
+						"type": "text"
+					},
+					{
+						"key": "X-JMS-Password",
+						"value": "credo",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<bgx:BGX xmlns:bgx=\"urn:bgpb:bgx:v2\" xmlns:tns=\"urn:bgpb:bgx:v2:operations:bcse:api:v1\">\r\n   <tns:GetRequestCurrencyOnline>\r\n      <tns:SecurityToken>eyJhbGciOiJSUzI1NiIsImtpZCI6IjI1MjdERTE0NTYxMDU0NTQwNkUxMjE1QzNCRDZBOUI3RkNBMTc3RTIiLCJ0eXAiOiJKV1QiLCJ4NXQiOiJKU2ZlRkZZUVZGUUc0U0ZjTzlhcHRfeWhkLUkifQ.eyJuYmYiOjE2Mjg1ODM4NTMsImV4cCI6MTYyODU4NzQ1MywiaXNzIjoiaHR0cHM6Ly9wcm9maWxlLmJjc2UuYnkiLCJhdWQiOiJodHRwczovL3Byb2ZpbGUuYmNzZS5ieS9yZXNvdXJjZXMiLCJjbGllbnRfaWQiOiJTR0FURTo3RUIwN0Y3Mi0yQUFBLTQyMzMtOEYzMS0yM0I0MkNDRDYzRDIiLCJzdWIiOiIxYTM2ZTc5ZC02ZGQ3LTQ1MWItYTlmYi04MjIyZGY5MWMxYmEiLCJhdXRoX3RpbWUiOjE2Mjg1ODM4NTMsImlkcCI6ImxvY2FsIiwic2NvcGUiOlsiYmNzZVNlcnZpY2VzIiwib3BlbmlkIl0sImFtciI6WyJwd2QiXX0.UFYmUhsTU9GIY936PhqWNQpOdnT9IccjHWAI171F38j5i_0fSk82cRIscCudPJfLG5OU5aHxoqVMaD7_3tkdEV789X6kPBpQNOvnlVdmSxFbBgCTeWXs12-bC-vOcanXYBV9RfhK-PL4jgmjeZavXAfkBxe65EcQWJk_uSgreInBbDEYNfWHpgyIjMn6Jg0BCRNrNkJMwuJBUUWsTBwXV-HP6SvaCTTT-RykRgSaOB6QMN1IOPbUkW-OY2X29ie6oe1gvF0MqejoxOlmbUikj_lXi0g-rVsVMEr8-Vmlxx1OfsIxShew_c6Zf1n67O6wCGAbKb2rvy-V7801ngRp1Q</tns:SecurityToken>\r\n      <tns:tradeModeId>1</tns:tradeModeId>\r\n   </tns:GetRequestCurrencyOnline>\r\n</bgx:BGX>",
+					"options": {
+						"raw": {
+							"language": "xml"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url_bus}}",
+					"host": [
+						"{{url_bus}}"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
