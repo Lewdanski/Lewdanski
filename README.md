@@ -23,6 +23,7 @@ alexander.lewdanski@gmail.com
 
 ## [My CV](https://www.linkedin.com/in/alexander-lewdanski/)
 
+/*
 
 ## Портфолио 
 - Тестовая документация
@@ -35,6 +36,7 @@ alexander.lewdanski@gmail.com
   -  [SKZ](https://github.com/Lewdanski/Lewdanski/tree/main/SKZ/sql_request1)
   -  [Delay](https://github.com/Lewdanski/Lewdanski/tree/main/Delay/sql_request1)
   
+ */ 
 
 ## Инструменты и технологии
 
