@@ -21,20 +21,19 @@ alexander.lewdanski@gmail.com
 
 
 
-## My CV 
+## [My CV](https://www.linkedin.com/in/alexander-lewdanski/)
 
-[Резюме](https://www.linkedin.com/in/alexander-lewdanski/)
 
 ## Портфолио 
 - Тестовая документация
-  -  [Чек-листы](https://github.com/Lewdanski/Lewdanski/tree/main/checklist)
-  -  [Тест-кейсы](https://github.com/Lewdanski/Lewdanski/tree/main/testcases)
-  -  [Баг-репорты](https://github.com/Lewdanski/Lewdanski/tree/main/bug_report)
+  -  [Чек-листы](https://github.com/Lewdanski/Lewdanski/tree/main/checklist1)
+  -  [Тест-кейсы](https://github.com/Lewdanski/Lewdanski/tree/main/testcases1)
+  -  [Баг-репорты](https://github.com/Lewdanski/Lewdanski/tree/main/bug_report1)
 - Коллекция в Postman 
-  -  [SKZ](https://github.com/Lewdanski/Lewdanski/tree/main/SKZ/postman_request)
+  -  [SKZ](https://github.com/Lewdanski/Lewdanski/tree/main/SKZ/postman_request1)
 - SQL-запросы 
-  -  [SKZ](https://github.com/Lewdanski/Lewdanski/tree/main/SKZ/sql_request)
-  -  [Delay](https://github.com/Lewdanski/Lewdanski/tree/main/Delay/sql_request)
+  -  [SKZ](https://github.com/Lewdanski/Lewdanski/tree/main/SKZ/sql_request1)
+  -  [Delay](https://github.com/Lewdanski/Lewdanski/tree/main/Delay/sql_request1)
   
 
 ## Инструменты и технологии
