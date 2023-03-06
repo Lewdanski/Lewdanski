@@ -1,9 +1,0 @@
-sql developer
-forp_d8
-
-UPDATE s_card
-SET crd_embossed = 'YES',
-    crd_prod_status = 'M'
-WHERE CRD_DEAL_NR = 'RS/270182';
-      -- CRD_CODE = '2837293';
-      -- CRD_NR = '5304229992943602';
