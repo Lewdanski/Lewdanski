@@ -38,7 +38,7 @@ alexander.lewdanski@gmail.com
   
 -->
 
-## Инструменты и технологии
+## Tools and technologies
 
 
 <p align="left">
@@ -87,7 +87,7 @@ alexander.lewdanski@gmail.com
 </p>
 
 
-## [Лицензии и сертификаты](https://github.com/Lewdanski/Lewdanski/tree/main/certificates)
+## [Licenses and certificates](https://github.com/Lewdanski/Lewdanski/tree/main/certificates)
 
 
   -  [Тестирование ПО](https://gb.ru/certificates/904494)
@@ -98,7 +98,7 @@ alexander.lewdanski@gmail.com
   -  [Основы тестирования программного обеспечения](https://test-planet.by/uchebniy-centr/database-alumni/?prowp_nonce_field=6d1a4c76fd&_wp_http_referer=%2Fakademiya%2Fdatabase-alumni%2F&family=%D0%9B%D0%B5%D0%B2%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9&number=2736&submitted=true)
 
 
-## Мои контакты
+## Contacts
 
 [![Linkedin: Lewdanski](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/alexander-lewdanski)
 [![Telegram Lewdanski](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Lewdanski)
