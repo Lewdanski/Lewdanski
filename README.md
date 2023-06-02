@@ -81,7 +81,7 @@ alexander.lewdanski@gmail.com
 <a href="https://www.charlesproxy.com/">
 <img src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" alt="CharlesProxy" width="50" height="50" />
 </a>
-<a href="https://www.adobe.com/cis_ru/products/photoshop.html">
+<a href="https://www.adobe.com/products/photoshop.html">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="50" height="50" />
 </a>   
 </p>
