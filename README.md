@@ -15,6 +15,17 @@
   
   Strong collaborator and communicator, working effectively with cross-functional teams to achieve project goals. Adept in Agile methodologies and continuous improvement, staying up-to-date with industry trends and updates. Committed to delivering high-quality software through thorough testing processes.
 
+
+  Skills:
+
++Test Management: Test IT
++Bug tracking systems: Jira, Mantis, Redmine
++Databases: MySQL, MS SQL
++OS: Mac OS, iOS, Windows, Android
++Tools: Chrome DEV tools, Postman, GIT, Jenkins, Charles Proxy, Fiddler, Mercurial
++English level: Pre-Intermediate
+
+
 alexander.lewdanski@gmail.com
 
 <a href="tel:+375259663388">+375(25)966-33-88</a>
