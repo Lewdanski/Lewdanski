@@ -19,11 +19,17 @@
   Skills:
 
 +Test Management: Test IT
+
 +Bug tracking systems: Jira, Mantis, Redmine
+
 +Databases: MySQL, MS SQL
+
 +OS: Mac OS, iOS, Windows, Android
+
 +Tools: Chrome DEV tools, Postman, GIT, Jenkins, Charles Proxy, Fiddler, Mercurial
+
 +English level: Pre-Intermediate
+
 
 
 alexander.lewdanski@gmail.com
