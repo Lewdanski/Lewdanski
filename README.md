@@ -111,7 +111,12 @@ alexander.lewdanski@gmail.com
   -  [GIT](https://gb.ru/certificates/742160)
   -  [HTML/CSS](https://geekbrains.ru/certificates/742356)
   -  [Database Management](https://gb.ru/certificates/742176)
+  -  [Postman](https://www.linkedin.com/learning/certificates/ce85f2fc33595df70ce8e4a5855b8508d8268a66f08140540f04dd96ef641cc6?
+  -  [Jenkins](https://www.linkedin.com/learning/certificates/991876d1e7a9b89f41ea26dd14518580f028ca7cec6b61e8e3682ff0435cb72b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BeMPYhcW%2BQZybUrD7oYSP0w%3D%3D)lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Brv8z%2F6q6TLaYA19twjokfw%3D%3D)
+  -  [Chrome Web Developer Tools](https://www.linkedin.com/learning/certificates/904f10ad3525d07a75d4650dd52ff8d82b46d5072008caa823b93135d30892b5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BeMPYhcW%2BQZybUrD7oYSP0w%3D%3D)
   -  [Object Oriented Programming](https://gb.ru/certificates/606488)
+  -  [Agile and Scrum](https://coursera.org/share/1d4a8fe1916f84da2b0453d54618bdc3)
+  -  [Performance Testing with JMeter](https://coursera.org/share/4e5cccf8bda89d863d7d0b46bc521994)
   -  [Software Testing Fundamentals](https://test-planet.by/uchebniy-centr/database-alumni/?prowp_nonce_field=6d1a4c76fd&_wp_http_referer=%2Fakademiya%2Fdatabase-alumni%2F&family=%D0%9B%D0%B5%D0%B2%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9&number=2736&submitted=true)
 
 
