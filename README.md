@@ -101,7 +101,7 @@
 </p>
 
 
-## [Licenses and certificates](https://github.com/Lewdanski/Lewdanski/tree/main/certificates)
+## [Licenses and certificates](https://www.linkedin.com/in/alexander-lewdanski/details/certifications/)
 
 
   -  [Software Testing](https://gb.ru/certificates/904494.en)
