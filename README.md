@@ -107,12 +107,12 @@ alexander.lewdanski@gmail.com
 ## [Licenses and certificates](https://github.com/Lewdanski/Lewdanski/tree/main/certificates)
 
 
-  -  [Тестирование ПО](https://gb.ru/certificates/904494)
-  -  [Основы GIT](https://gb.ru/certificates/742160)
-  -  [Основы HTML/CSS](https://geekbrains.ru/certificates/742356)
-  -  [Основы БД](https://gb.ru/certificates/742176)
-  -  [Основы ООП](https://gb.ru/certificates/606488)
-  -  [Основы тестирования программного обеспечения](https://test-planet.by/uchebniy-centr/database-alumni/?prowp_nonce_field=6d1a4c76fd&_wp_http_referer=%2Fakademiya%2Fdatabase-alumni%2F&family=%D0%9B%D0%B5%D0%B2%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9&number=2736&submitted=true)
+  -  [Software Testing](https://gb.ru/certificates/904494)
+  -  [GIT](https://gb.ru/certificates/742160)
+  -  [HTML/CSS](https://geekbrains.ru/certificates/742356)
+  -  [Database Management](https://gb.ru/certificates/742176)
+  -  [Object Oriented Programming](https://gb.ru/certificates/606488)
+  -  [Software Testing Fundamentals](https://test-planet.by/uchebniy-centr/database-alumni/?prowp_nonce_field=6d1a4c76fd&_wp_http_referer=%2Fakademiya%2Fdatabase-alumni%2F&family=%D0%9B%D0%B5%D0%B2%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9&number=2736&submitted=true)
 
 
 ## Contacts
