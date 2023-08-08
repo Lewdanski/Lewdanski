@@ -31,13 +31,6 @@
 <b>+English level:</b> <i>Pre-Intermediate</i>
 
 
-
-<p align="right">alexander.lewdanski@gmail.com</p>
-
-<p align="right"><a href="tel:+375259663388">+375(25)966-33-88</a></p>
-
-
-
 ## [My CV](https://www.linkedin.com/in/alexander-lewdanski/)
 
 <!--
