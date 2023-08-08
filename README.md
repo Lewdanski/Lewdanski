@@ -16,19 +16,19 @@
   Strong collaborator and communicator, working effectively with cross-functional teams to achieve project goals. Adept in Agile methodologies and continuous improvement, staying up-to-date with industry trends and updates. Committed to delivering high-quality software through thorough testing processes.
 
 
-  Skills:
+  <b><i>Skills:</b></i>
 
 <b>+Test Management:</b> <i>Test IT</i>
 
-+Bug tracking systems: Jira, Mantis, Redmine
+<b>+Bug tracking systems:</b> <i>Jira, Mantis, Redmine</i>
 
-+Databases: MySQL, MS SQL
+<b>+Databases:</b> <i>MySQL, MS SQL</i>
 
-+OS: Mac OS, iOS, Windows, Android
+<b>+OS:</b> <i>Mac OS, iOS, Windows, Android</i>
 
-+Tools: Chrome DEV tools, Postman, GIT, Jenkins, Charles Proxy, Fiddler, Mercurial
+<b>+Tools:</b> <i>Chrome DEV tools, Postman, GIT, Jenkins, Charles Proxy, Fiddler, Mercurial</i>
 
-+English level: Pre-Intermediate
+<b>+English level:</b> <i>Pre-Intermediate</i>
 
 
 
