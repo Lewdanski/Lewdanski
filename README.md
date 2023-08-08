@@ -18,7 +18,7 @@
 
   Skills:
 
-<b><i>+Test Management:</b></i> Test IT
+<b>+Test Management:</b> <i>Test IT</i>
 
 +Bug tracking systems: Jira, Mantis, Redmine
 
