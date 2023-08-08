@@ -16,6 +16,8 @@
   Strong collaborator and communicator, working effectively with cross-functional teams to achieve project goals. Adept in Agile methodologies and continuous improvement, staying up-to-date with industry trends and updates. Committed to delivering high-quality software through thorough testing processes.
 
 
+
+
   <b><i>Skills:</b></i>
 
 <b>+Test Management:</b> <i>Test IT</i>
@@ -29,6 +31,8 @@
 <b>+Tools:</b> <i>Chrome DEV tools, Postman, GIT, Jenkins, Charles Proxy, Fiddler, Mercurial</i>
 
 <b>+English level:</b> <i>Pre-Intermediate</i>
+
+
 
 
 ## [My CV](https://www.linkedin.com/in/alexander-lewdanski/)
