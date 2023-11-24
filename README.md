@@ -123,8 +123,7 @@
 [![Telegram Lewdanski](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Lewdanski)
 [![Instagram: Lewdanski](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/alexander.lewdanski/)
 [![Drive2: Lewdanski](https://img.shields.io/badge/-DRIVE2-red?style=flat-square&logo=audi&logoColor=white)](https://www.drive2.ru/users/lewdanski)
-<p align="left">mailto:alexander.lewdanski@gmail.com</p>
-<a href="mailto:alexander.lewdanski@gmail.com" target="_blank" class="email" title="Email" b-d4dvc55njg=""><i class="fab fa fa-at" b-d4dvc55njg="" aria-hidden="true"></i></a>
+<p align="left">alexander.lewdanski@gmail.com</p>
 
 <p align="left"><a href="tel:+375259663388">+375(25)966-33-88</a></p>
 
